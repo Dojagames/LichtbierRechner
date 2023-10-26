@@ -17,4 +17,4 @@ Bei einer standart Bierlänge von 30 Minuten entspricht ein Nanolichtbier ca. 54
 
 ## LichtBierrechner
 Der Lichtbierrechner ist ein nützliches Tool um Strecken in Ihrer neuen lieblings Längeneinheit angeben zu können. <br />
-[LichtBierrechner](http://lichtbierrechner.ddns.net:8080/)
+[LichtBierrechner](https://lichtbier.jonx.dev)
